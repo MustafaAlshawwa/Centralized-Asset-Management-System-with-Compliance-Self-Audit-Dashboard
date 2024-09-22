@@ -51,3 +51,7 @@ Each machine is configured to integrate with the dashboard, providing live data 
 
 This project demonstrates the integration of **security management**, **compliance verification**, and **asset monitoring** into a streamlined, centralized system that provides real-time insights and helps organizations maintain a secure, compliant environment.
 
+---
+Contributors:
+Mohammed Alzu’bi
+Sara Maher
