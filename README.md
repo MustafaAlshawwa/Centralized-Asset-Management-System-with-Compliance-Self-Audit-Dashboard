@@ -40,8 +40,8 @@ The dashboard is built using:
 
 The system is virtualized using **Vagrant** to easily provision and manage the following machines:
 
-1. **Ubuntu Desktop** (Client Machine)
-2. **Ubuntu Server** (Asset Management Backend)
+1. **Ubuntu Desktop**
+2. **Ubuntu Server** 
 3. **Windows 10**
 4. **Windows 11**
 
